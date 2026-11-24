@@ -11,3 +11,4 @@
 /home/owner/Programming/VintageStory/ChatNotifications/ChatNotifications/obj/Debug/refint/ChatNotifications.dll
 /home/owner/Programming/VintageStory/ChatNotifications/ChatNotifications/obj/Debug/ChatNotifications.pdb
 /home/owner/Programming/VintageStory/ChatNotifications/ChatNotifications/obj/Debug/ref/ChatNotifications.dll
+/home/owner/Programming/VintageStory/ChatNotifications/ChatNotifications/obj/Debug/ChatNotifications.sourcelink.json

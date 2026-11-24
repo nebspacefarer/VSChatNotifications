@@ -28,7 +28,7 @@ public class ChatNotificationsModSystem : ModSystem
     void OnChatMessage(int groupId, string message, EnumChatType chatType, string data)
     {
         // Notification messages already trigger the game's own tab jump.
-        if (chatType != EnumChatType.OthersMessage) return;
+        if (chatType != EnumChatType.Notification) return;
         if (groupId == GlobalConstants.CurrentChatGroup) return;
 
         // Let the dialog finish handling the message before we switch.

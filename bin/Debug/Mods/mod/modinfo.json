@@ -1,0 +1,14 @@
+{
+  "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+  "type": "Code",
+  "modid": "chatnotifications",
+  "name": "ChatNotifications",
+  "authors": [
+    "NebSpacefarer"
+  ],
+  "description": "A Vintage Story mod to switch to the chat tab when a player sends a message.",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "1.22.7"
+  }
+}

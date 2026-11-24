@@ -1,0 +1,13 @@
+/home/owner/Programming/VintageStory/ChatNotifications/ChatNotifications/bin/Debug/Mods/mod/modinfo.json
+/home/owner/Programming/VintageStory/ChatNotifications/ChatNotifications/bin/Debug/Mods/mod/ChatNotifications.deps.json
+/home/owner/Programming/VintageStory/ChatNotifications/ChatNotifications/bin/Debug/Mods/mod/ChatNotifications.dll
+/home/owner/Programming/VintageStory/ChatNotifications/ChatNotifications/bin/Debug/Mods/mod/ChatNotifications.pdb
+/home/owner/Programming/VintageStory/ChatNotifications/ChatNotifications/obj/Debug/ChatNotifications.csproj.AssemblyReference.cache
+/home/owner/Programming/VintageStory/ChatNotifications/ChatNotifications/obj/Debug/ChatNotifications.GeneratedMSBuildEditorConfig.editorconfig
+/home/owner/Programming/VintageStory/ChatNotifications/ChatNotifications/obj/Debug/ChatNotifications.AssemblyInfoInputs.cache
+/home/owner/Programming/VintageStory/ChatNotifications/ChatNotifications/obj/Debug/ChatNotifications.AssemblyInfo.cs
+/home/owner/Programming/VintageStory/ChatNotifications/ChatNotifications/obj/Debug/ChatNotifications.csproj.CoreCompileInputs.cache
+/home/owner/Programming/VintageStory/ChatNotifications/ChatNotifications/obj/Debug/ChatNotifications.dll
+/home/owner/Programming/VintageStory/ChatNotifications/ChatNotifications/obj/Debug/refint/ChatNotifications.dll
+/home/owner/Programming/VintageStory/ChatNotifications/ChatNotifications/obj/Debug/ChatNotifications.pdb
+/home/owner/Programming/VintageStory/ChatNotifications/ChatNotifications/obj/Debug/ref/ChatNotifications.dll
